@@ -1,0 +1,25 @@
+			BUSINESS ENTITY OF ONLINE TICKET BOOKING SYSTEM APP
+
+
+user : 	travel agent be able to create new accounts by providing their  details  .
+customer : 		those who want to book a ticket	
+product: 			a online ticket booking system application 
+Avaibility :			on a particular date ticket is avaialabe or 	not ,the app is working fine and getting real time data from the host server
+payment :			 payment is done by which method show transaction id and details
+ticket details: 		date of journey and number of travellers 
+customer support:		if transaction is fail or any kind of error provide a 24*7 customer support service
+
+			BUSINESS OPERATION ONLINE TICKET BOOKING SYSTEM APP
+
+
+HIREING:			hire a team
+create SRS
+(software requirment specification): create srs as per customer requirment by using agile methodology,
+Team meeting:			Discuss srs with the team members
+				discuss case studies
+				discuss better opinion
+Start work:				start work on the basis of srs document 
+
+Developer:			develop a software as per srs document and 
+tester:				write a test cases and test the application
+deployment:			deploy the software on server

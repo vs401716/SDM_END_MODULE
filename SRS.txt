@@ -1,0 +1,51 @@
+					FUNCTIONAL REQUIRMENT OF THE CASE STUDY 
+
+what is functional requirment specification ?
+   the functional requirment specification is a roadmap or a blueprint that how to perform a software .the complete lifecycle of a appplication is define    as a user point of view .
+			"What should the system do?"and how to perform on a particular case
+
+
+
+
+
+User registration: User should be able to create new accounts by providing their details like .
+							username 
+							email;
+							password;
+							age;
+							gender;
+signin : you have to provide various login option to the user  like: 
+						login via gmail and password ;
+						login via phone number and otp;
+
+forget password:	re autheticate the user is valid useror not  and reset the password by using token based authentication .		
+
+
+after sucessful login 						
+various option like :			airline ticket .
+				bus ticket.
+				 train ticket.
+				(customer choose any of the option ).
+
+
+avability:				take input from the user to select the date 
+				show available seats and classes(1 class second class ,AC,NON AC) and fair details+taxes on a particular 				date.
+
+select number of seats:		number of seats the user want to select and classes and calculate fare according to it 
+
+payment option:			pay via  cc(credit card ),dc(debit card),upi,netbanking;
+				show transaction id;
+				
+ticket details:			confirm ticket : show birth number ,class ,date,date of journey,name of  of person whose haveto travel.
+
+
+cancel ticket:			deduct some charges based on rules .
+				refund payment via original payment  source.
+
+						
+						
+						
+				
+				
+						
+
